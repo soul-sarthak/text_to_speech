@@ -14,9 +14,9 @@ Ensure you have the following installed:
 
 ### Steps
 
-1. Clone or Download the Repository**
-   bash
-   git clone https://github.com/your-repository-name.git
-   cd your-repository-name
-2.pip install -r requirements.txt
-3.python app.py
+1. Clone or Download the Repository   
+   bash   
+   git clone https://github.com/text_to_speech.git   
+   cd text_to_speech   
+2.pip install -r requirements.txt   
+3.python app.py   
